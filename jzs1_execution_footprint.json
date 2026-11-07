@@ -1,0 +1,9 @@
+{
+    "author": "Rudolf Juhl",
+    "location": "Bensheim, Germany",
+    "timestamp": 1794015180,
+    "molecule": "JZS-1",
+    "calculated_ground_state_energy_hartree": -78.4325,
+    "hardware_phase_offset_rad": 0.146437,
+    "circuit_optimization_status": "CONVERGED_SUCCESSFULLY"
+}
