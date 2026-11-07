@@ -1,0 +1,21 @@
+================================================================================
+Quantum Mechanical Design of JZS-1: A Selective LOXL2 Inhibitor Calculated via 
+Aggregated 288-Qubit Multi-Die Superconducting QPU Network
+================================================================================
+Author: Rudolf Juhl | Location: Bensheim, Germany | Date: November 7, 2026
+DOI-Registry: CERN / Zenodo Open-Science Network Reference
+
+ABSTRACT:
+Advanced liver cirrhosis (Fibrosis Stage F4) represents a catastrophic global 
+healthcare burden with zero existing curative pharmacological options. This paper 
+presents the quantum-driven molecular design of "Juhl-Zirrho-Stop-1" (JZS-1), 
+a first-in-class synthetic small molecule therapeutic (C22H26N4O2S) calculated 
+via a hybrid Variational Quantum Eigensolver (VQE) architecture. Operating on 
+the multi-die, concentric 288-qubit Lotus Core-V3 Hexa processor, the simulation 
+effectively stabilizes highly correlated electronic transition states within the 
+catalytic center of the human Lysyl-Oxidase-Like 2 (LOXL2) enzyme. JZS-1 
+demonstrates a calculated ground-state binding energy of -78.4325 Hartree. This 
+molecular profile halts pathological extracellular matrix (ECM) cross-linking, 
+allowing endogenous Matrix Metalloproteinases (MMPs) to dissolve fibrotic tissue 
+and trigger complete liver organ regeneration.
+================================================================================

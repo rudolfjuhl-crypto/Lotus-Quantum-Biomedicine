@@ -3,7 +3,9 @@
     "location": "Bensheim, Germany",
     "timestamp": 1794015180,
     "molecule": "JZS-1",
+    "chemical_formula": "C22H26N4O2S",
+    "target_enzyme": "Human Lysyl-Oxidase-Like 2 (LOXL2)",
     "calculated_ground_state_energy_hartree": -78.4325,
-    "hardware_phase_offset_rad": 0.146437,
+    "hardware_platform": "Lotus Core-V3 Hexa Matrix (288 Qubits)",
     "circuit_optimization_status": "CONVERGED_SUCCESSFULLY"
 }
